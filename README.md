@@ -3,7 +3,7 @@
 
 Bem-vindo ao sistema Sistema de Informação e Monitoria da Saúde de Funcionários Com Doenças Crónicas desenvolvido em Java Swing, JPA e MySQL! Este documento fornece uma visão geral das funcionalidades e instruções básicas de uso do sistema.
 
-![Imagem](file://demo/login.jpg)
+![Tela de Login](https://github.com/mmaunze/sigmfsdc/blob/main/demo/login.jpg)
 
 ### Funcionalidades
 
