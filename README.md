@@ -2,7 +2,7 @@
 ## Sistema de Informação e Monitoria da Saúde de Funcionários Com Doenças Crónicas
 ---
 ---
-------
+
 ![Tela de Login](https://github.com/mmaunze/sigmfsdc/blob/main/demo/login.jpg)
 
 *Bem-vindo ao sistema Sistema de Informação e Monitoria da Saúde de Funcionários Com Doenças Crónicas desenvolvido em Java Swing, JPA e MySQL! Este documento fornece uma visão geral das funcionalidades e instruções básicas de uso do sistema.*
@@ -12,9 +12,9 @@
 
 1. **Criar Senha de Acesso**:
    - Permite que o usuário crie uma senha para ter acesso ao sistema.
-
-
+---
 ![Criar Usuario](https://github.com/mmaunze/sigmfsdc/blob/main/demo/menu.jpg)
+---
 
 2. **Autenticação de Senha**:
    - Solicita a senha do usuário para atualizar ou inserir novos dados.
@@ -30,8 +30,9 @@
 
 6. **Armazenamento de Dados**:
    - Os dados são armazenados em uma base de dados MySQL, utilizando JPA para a comunicação com o banco de dados.
-
+---
 ![Cadastro de Dados](https://github.com/mmaunze/sigmfsdc/blob/main/demo/cadastro.jpg)
+---
 
 7. **Edição e Salvamento de Dados**:
    - Permite editar dados existentes e salvar as alterações.
@@ -52,9 +53,9 @@
 
 4. **Geração de Relatórios**:
    - Os relatórios periódicos em formato PDF são gerados automaticamente e podem ser acessados no sistema.
-
+---
 ![Gerar Relatorio](https://github.com/mmaunze/sigmfsdc/blob/main/demo/gerar_relatorio.jpg)
-
+---
 
 ### Requisitos do Sistema
 
